@@ -1,2 +1,2 @@
 # SNR_UAS
-The programs task is to Identify multiple objects from an input image for Search and rescue
+The program's task is to Identify multiple objects from an input image for Search and rescue
