@@ -1,0 +1,2 @@
+Copyopencv-python
+numpy
