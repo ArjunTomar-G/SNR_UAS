@@ -1,2 +1,2 @@
-Copyopencv-python
+opencv-python
 numpy
